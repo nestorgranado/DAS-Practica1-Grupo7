@@ -1,5 +1,5 @@
 ---
-status: proposed.<br>
+status: proposed.
 date: 05-11-2022.
 ---
 # ADD-0001-Modelo-Capas
