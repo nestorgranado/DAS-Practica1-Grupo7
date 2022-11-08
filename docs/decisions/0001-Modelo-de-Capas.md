@@ -1,5 +1,5 @@
 ---
-status: proposed.
+status: rejected.
 date: 05-11-2022.
 ---
 # ADD-0001-Modelo-Capas
