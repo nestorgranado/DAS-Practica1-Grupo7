@@ -8,7 +8,6 @@ date: 05-11-2022.
 
 {Se necesita una arquitectura software para crear una aplicación de gestión de Fábrica 4.0 y que sea capaz de mostrar los datos recogidos por sensores, notificar usuarios y gestionar los materiales y personal de la fábrica}
 
-<!-- This is an optional element. Feel free to remove. -->
 ## Decision Drivers
 
 * {RF01}
@@ -19,12 +18,13 @@ date: 05-11-2022.
 ## Considered Options
 
 * {ADD-0001.1-Modelo-Vista-Controlador}
+* {ADD-0001.2-Modelo-de-Eventos}.
 
 
 ## Decision Outcome
 
 Chosen option: "{Modelo-de-Capas}", because { Permite dividir el problema en diferentes modulos, que utilizan información y recursos de las capas inferiores, permitiendo resolver diferentes problemas abstrayendolos del problema general.
-{justification. e.g., only option, which meets k.o. criterion decision driver | which resolves force {force} | … | comes out best (see below)}.
+
 
 <!-- This is an optional element. Feel free to remove. -->
 ### Consequences
