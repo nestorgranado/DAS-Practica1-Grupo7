@@ -3,7 +3,7 @@
 status: Proposed.
 date: 12-11-2022.
 ---
-# ADD-0003-Patrón-STrategy
+# ADD-0003-Patrón-Strategy
 
 ## Context and Problem Statement
 
