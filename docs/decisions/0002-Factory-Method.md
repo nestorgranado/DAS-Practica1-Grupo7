@@ -25,7 +25,7 @@ Chosen option: "{Factory-Method}", because
 ### Consequences
 
 * Good, because {Permite mover la creacion de objetos a un methodo concreto.}
-* Bad, because {Se usan methodos en vez de objetos.}
+* Bad, because {Se usan metodos en vez de objetos.}
 
 
 
