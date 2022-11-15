@@ -20,7 +20,7 @@ Chosen option: "{Patron Chain of Responsability}", because
 
 ### Consequences
 
-* Good, because {Lo que pone arriba ZORRA INMUNDA.}
+* Good, because {Permite pasar solicitudes a lo largo de una cadena de manejadores. Al recibir una solicitud, cada manejador decide si la procesa o si la pasa al siguiente manejador de la cadena.}
 
 ## Pros and Cons of the Options
 
