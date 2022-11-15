@@ -1,6 +1,6 @@
 ---
 
-status: Proposed.
+status: Accepted.
 date: 12-11-2022.
 ---
 # ADD-0004-Chain-of-Responsability.

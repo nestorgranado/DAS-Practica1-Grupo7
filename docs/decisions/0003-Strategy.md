@@ -1,6 +1,6 @@
 ---
 
-status: Proposed.
+status: Accepted.
 date: 12-11-2022.
 ---
 # ADD-0003-Strategy
@@ -11,11 +11,12 @@ date: 12-11-2022.
 
 ## Decision Drivers
 
-* {RF05}, {RF06}.
+* {RF05}.
+* {RF06}.
 
 ## Considered Options
 
-?state¿
+* {ADD-0003.1-State.}
 
 ## Decision Outcome
 
