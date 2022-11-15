@@ -1,6 +1,6 @@
 ---
 
-status: accepted.
+status: Accepted.
 date: 15-11-2022.
 ---
 # ADD-0005-Publish-Subscribe
