@@ -3,7 +3,7 @@
 status: Accepted.
 date: 12-11-2022.
 ---
-# ADD-0004-Chain-of-Responsability.
+# ADD-0004-Chain-of-Responsibility.
 
 ## Context and Problem Statement
 
@@ -15,7 +15,7 @@ date: 12-11-2022.
 
 ## Decision Outcome
 
-Chosen option: "{Patron Chain of Responsability}", because
+Chosen option: "{Patron Chain of Responsibility}", because
 {Permite pasar solicitudes a lo largo de una cadena de manejadores. Al recibir una solicitud, cada manejador decide si la procesa o si la pasa al siguiente manejador de la cadena.}
 
 ### Consequences

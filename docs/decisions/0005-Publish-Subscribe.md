@@ -17,7 +17,7 @@ date: 15-11-2022.
 ## Decision Outcome
 
 Chosen option: "{Patrón Publish-Subscribe }", because
-{Necesitamos notificar a nuestros usarios cuando sucede un evento.}
+{Necesitamos notificar a nuestros usuarios cuando sucede un evento.}
 
 ### Consequences
 
@@ -27,7 +27,7 @@ Chosen option: "{Patrón Publish-Subscribe }", because
 
 ### {Pros}
 
-* Perdida de acoplamiento de los subscriptores ya que el programa no necesita saber nada sobre ellos.
+* Perdida de acoplamiento de los subscriptores, ya que el programa no necesita saber nada sobre ellos.
 * Alta escalabilidad.
 ### {Cons}
 

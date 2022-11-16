@@ -7,11 +7,11 @@ date: 09-11-2022.
 
 ## Context and Problem Statement
 
-{Se necesita un patrón para crear una familias de sensores, que comparten parte de su funcionalidad.}
+{Se necesita un patrón para crear unas familias de sensores, que comparten parte de su funcionalidad.}
 
 ## Decision Drivers
 
-* {RF03}
+* {RF03.1}
 
 ## Considered Options
 
@@ -24,8 +24,8 @@ Chosen option: "{Factory-Method}", because
 
 ### Consequences
 
-* Good, because {Permite mover la creacion de objetos a un methodo concreto.}
-* Bad, because {Se usan metodos en vez de objetos.}
+* Good, because {Permite mover la creación de objetos a un método concreto.}
+* Bad, because {Se usan métodos en vez de objetos.}
 
 
 

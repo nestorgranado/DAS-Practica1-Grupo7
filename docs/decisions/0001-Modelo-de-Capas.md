@@ -23,14 +23,14 @@ date: 05-11-2022.
 
 ## Decision Outcome
 
-Chosen option: "{Modelo-de-Capas}", because { Permite dividir el problema en diferentes modulos, que utilizan información y recursos de las capas inferiores, permitiendo resolver diferentes problemas abstrayendolos del problema general.
+Chosen option: "{Modelo-de-Capas}", because { Permite dividir el problema en diferentes módulos, que utilizan información y recursos de las capas inferiores, permitiendo resolver diferentes problemas abstrayéndolos del problema general.
 
 
 <!-- This is an optional element. Feel free to remove. -->
 ### Consequences
 
-* Good, because {nos permite mudularizar mucho el software dividiendolo en diferentes capas por funcionalidad}
-* Bad, because {no permite la navegacion entre capas que no sean contiguas y solo permite el uso de capas en una solo diercción}
+* Good, because {nos permite mudularizar mucho el software dividiéndolo en diferentes capas por funcionalidad}
+* Bad, because {no permite la navegación entre capas que no sean contiguas y solo permite el uso de capas en una solo dirección}
 
 <!-- This is an optional element. Feel free to remove. -->
 ## Pros and Cons of the Option
@@ -43,7 +43,7 @@ Chosen option: "{Modelo-de-Capas}", because { Permite dividir el problema en dif
 
 ### {Cons}
 
-* Problemas con la sincrinización.
-* instrumentaciones problemáticas.
+* Problemas con la sincronización.
+* Instrumentaciones problemáticas.
 * Las capas contienen demasiadas actividades redundantes.
 * La gran cantidad de código que es necesario.
