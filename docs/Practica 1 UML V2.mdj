@@ -1240,23 +1240,6 @@
 									"subViews": [
 										{
 											"_type": "UMLAttributeView",
-											"_id": "AAAAAAGEkSvl23ayqZk=",
-											"_parent": {
-												"$ref": "AAAAAAGEgMMiePeiVT0="
-											},
-											"model": {
-												"$ref": "AAAAAAGEkSvl0HapwS4="
-											},
-											"font": "Arial;13;0",
-											"left": 453,
-											"top": 478,
-											"width": 175.56982421875,
-											"height": 13,
-											"text": "-subscribers: List<Subscriber>",
-											"horizontalAlignment": 0
-										},
-										{
-											"_type": "UMLAttributeView",
 											"_id": "AAAAAAGEkSz8vJdQ1D0=",
 											"_parent": {
 												"$ref": "AAAAAAGEgMMiePeiVT0="
@@ -1266,7 +1249,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 453,
-											"top": 493,
+											"top": 478,
 											"width": 175.56982421875,
 											"height": 13,
 											"text": "-mainState",
@@ -1277,7 +1260,7 @@
 									"left": 448,
 									"top": 473,
 									"width": 185.56982421875,
-									"height": 38
+									"height": 23
 								},
 								{
 									"_type": "UMLOperationCompartmentView",
@@ -1300,7 +1283,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 453,
-											"top": 516,
+											"top": 501,
 											"width": 175.56982421875,
 											"height": 13,
 											"text": "+getInfo(): Info",
@@ -1317,7 +1300,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 453,
-											"top": 531,
+											"top": 516,
 											"width": 175.56982421875,
 											"height": 13,
 											"text": "+notify()",
@@ -1326,7 +1309,7 @@
 									],
 									"font": "Arial;13;0",
 									"left": 448,
-									"top": 511,
+									"top": 496,
 									"width": 185.56982421875,
 									"height": 38
 								},
@@ -1368,7 +1351,7 @@
 							"left": 448,
 							"top": 448,
 							"width": 185.56982421875,
-							"height": 131,
+							"height": 89,
 							"nameCompartment": {
 								"$ref": "AAAAAAGEgMMiePedA/A="
 							},
@@ -1488,23 +1471,6 @@
 									"subViews": [
 										{
 											"_type": "UMLAttributeView",
-											"_id": "AAAAAAGEkS4C4JndndU=",
-											"_parent": {
-												"$ref": "AAAAAAGEgMReBgYg/Ig="
-											},
-											"model": {
-												"$ref": "AAAAAAGEkS4C0JnUFMs="
-											},
-											"font": "Arial;13;0",
-											"left": 453,
-											"top": 662,
-											"width": 179.181640625,
-											"height": 13,
-											"text": "-subscribers: List <Subscriber>",
-											"horizontalAlignment": 0
-										},
-										{
-											"_type": "UMLAttributeView",
 											"_id": "AAAAAAGEkS6i9J0XFHU=",
 											"_parent": {
 												"$ref": "AAAAAAGEgMReBgYg/Ig="
@@ -1514,7 +1480,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 453,
-											"top": 677,
+											"top": 662,
 											"width": 179.181640625,
 											"height": 13,
 											"text": "-mainState",
@@ -1525,7 +1491,7 @@
 									"left": 448,
 									"top": 657,
 									"width": 189.181640625,
-									"height": 38
+									"height": 23
 								},
 								{
 									"_type": "UMLOperationCompartmentView",
@@ -1548,7 +1514,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 453,
-											"top": 700,
+											"top": 685,
 											"width": 179.181640625,
 											"height": 13,
 											"text": "+getInfo(): Info",
@@ -1565,7 +1531,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 453,
-											"top": 715,
+											"top": 700,
 											"width": 179.181640625,
 											"height": 13,
 											"text": "+notify()",
@@ -1574,7 +1540,7 @@
 									],
 									"font": "Arial;13;0",
 									"left": 448,
-									"top": 695,
+									"top": 680,
 									"width": 189.181640625,
 									"height": 38
 								},
@@ -1616,7 +1582,7 @@
 							"left": 448,
 							"top": 632,
 							"width": 189.181640625,
-							"height": 131,
+							"height": 89,
 							"nameCompartment": {
 								"$ref": "AAAAAAGEgMReBgYbd6c="
 							},
@@ -2994,7 +2960,7 @@
 							"left": 704,
 							"top": 824,
 							"width": 168,
-							"height": 137,
+							"height": 121,
 							"nameCompartment": {
 								"$ref": "AAAAAAGEkU8JlLWcbe0="
 							},
@@ -3033,7 +2999,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 309,
-									"top": 923,
+									"top": 907,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -3054,7 +3020,7 @@
 									"visible": null,
 									"font": "Arial;13;0",
 									"left": 309,
-									"top": 908,
+									"top": 892,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -3075,7 +3041,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 309,
-									"top": 953,
+									"top": 937,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -3092,7 +3058,7 @@
 							"tail": {
 								"$ref": "AAAAAAGEet0r0fOrsWE="
 							},
-							"points": "309:903;309:944;704:944",
+							"points": "309:903;309:928;704:928",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGEkVBxBrXqVGU="
@@ -4956,16 +4922,6 @@
 					"attributes": [
 						{
 							"_type": "UMLAttribute",
-							"_id": "AAAAAAGEkSvl0HapwS4=",
-							"_parent": {
-								"$ref": "AAAAAAGEgMMid/ea6WM="
-							},
-							"name": "subscribers",
-							"visibility": "private",
-							"type": "List<Subscriber>"
-						},
-						{
-							"_type": "UMLAttribute",
 							"_id": "AAAAAAGEkSz8rpdHqos=",
 							"_parent": {
 								"$ref": "AAAAAAGEgMMid/ea6WM="
@@ -5028,16 +4984,6 @@
 						}
 					],
 					"attributes": [
-						{
-							"_type": "UMLAttribute",
-							"_id": "AAAAAAGEkS4C0JnUFMs=",
-							"_parent": {
-								"$ref": "AAAAAAGEgMReBQYY6Ps="
-							},
-							"name": "subscribers",
-							"visibility": "private",
-							"type": "List <Subscriber>"
-						},
 						{
 							"_type": "UMLAttribute",
 							"_id": "AAAAAAGEkS6i4p0OMy8=",
@@ -5231,7 +5177,8 @@
 								"$ref": "AAAAAAGEkU8Jk7WZMNo="
 							},
 							"name": "mainState",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						}
 					],
 					"operations": [
