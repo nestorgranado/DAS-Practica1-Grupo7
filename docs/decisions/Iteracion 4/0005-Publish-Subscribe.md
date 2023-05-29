@@ -10,8 +10,8 @@ date: 11-02-2022.
 
 ## Decision Drivers
 
-* {RF08}
-* {RF09}
+* {RF12}.
+* {RF13}.
 
 ## Decision Outcome
 

@@ -11,7 +11,8 @@ date: 11-02-2023.
 ## Decision Drivers
 
 * {RF01}.
-* {RF05}.
+* {RF01.1}.
+* {RF09}.
 
 ## Considered Options
 
